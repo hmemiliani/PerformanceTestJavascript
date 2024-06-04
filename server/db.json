@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "38f0",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "1234",
+      "role": "Admin"
+    },
+    {
+      "id": "8edc",
+      "name": "User",
+      "email": "user@user.com",
+      "password": "1234",
+      "role": "User"
+    }
+  ],
+  "flights": [
+    {
+      "id": "3518",
+      "flightNumber": "123345",
+      "origin": "medellin",
+      "destination": "cartagena",
+      "departure": "2024-06-12",
+      "arrival": "2024-06-13"
+    },
+    {
+      "flightNumber": "12345",
+      "origin": "manizales",
+      "destination": "bogota",
+      "departure": "2024-06-06",
+      "arrival": "2024-06-11",
+      "id": "8d63"
+    },
+    {
+      "flightNumber": "123432",
+      "origin": "Bogota",
+      "destination": "Bogota",
+      "departure": "2024-06-13",
+      "arrival": "2024-06-27",
+      "id": "34e2"
+    },
+    {
+      "id": "3c7e",
+      "flightNumber": "54343",
+      "origin": "Barranquilla",
+      "destination": "Pereira",
+      "departure": "2024-06-14",
+      "arrival": "2024-06-17"
+    },
+    {
+      "id": "0b38",
+      "flightNumber": "12345",
+      "origin": "Bogota",
+      "destination": "Cartagena",
+      "departure": "2024-06-07",
+      "arrival": "2024-06-26"
+    },
+    {
+      "id": "2292",
+      "flightNumber": "111123",
+      "origin": "Bucaramanga",
+      "destination": "Armenia",
+      "departure": "2024-06-05",
+      "arrival": "2024-06-29"
+    },
+    {
+      "id": "2a46",
+      "flightNumber": "231234",
+      "origin": "Barranquilla",
+      "destination": "Medellin",
+      "departure": "2024-06-06",
+      "arrival": "2024-06-20"
+    }
+  ]
+}
